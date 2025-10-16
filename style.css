@@ -452,6 +452,15 @@ ul{
     .line1{
         font-size: .8rem;
     }
+    .wel{
+        font-size: 1.8rem;
+    }
+    .brand{
+        font-size: 2rem;
+    }
+    .line1{
+        font-size: .6rem;
+    }
 }
 @media (max-width: 400px) {
     /* .welBanner{
@@ -473,6 +482,6 @@ ul{
         bottom: 38%;
     }
     .line1{
-        font-size: .4rem;
+        font-size: .6rem;
     }
 }
