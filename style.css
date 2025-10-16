@@ -458,10 +458,10 @@ ul{
         scale: .8;
     } */
     .wel{
-        font-size: 2.2rem;
+        font-size: 2rem;
     }
     .brand{
-        font-size: 2.6rem;
+        font-size: 2.5rem;
     }
     .intcont{
         height: fit-content;
@@ -473,6 +473,6 @@ ul{
         bottom: 30%;
     }
     .line1{
-        font-size: .8rem;
+        font-size: .6rem;
     }
 }
